@@ -1,2 +1,2 @@
-# tie-gcm_robe_preprint
-Supplementary Material for the preprint "TIE-GCM Reduced Order Bayesian Emulator: LSTM Ensemble for Dynamic Thermosphere Modeling".
+# tie-gcm_rope_preprint
+Supplementary Material for the preprint "Reduced Order Probabilistic Emulation for Physics-Based Thermosphere Models".
